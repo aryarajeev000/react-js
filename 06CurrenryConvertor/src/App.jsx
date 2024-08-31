@@ -32,8 +32,7 @@ function App() {
         <div
             className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
             style={{
-                backgroundImage: `url('https://img.freepik.com/premium-photo/modern-city-with-
-                ilumnated-buildings-night-background_960396-751377.jpg?size=626&ext=jpg&ga=GA1.1.2013934408.1724661164&semt=ais_hybrid')`,
+                backgroundImage: `url('https://images.pexels.com/photos/604684/pexels-photo-604684.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')`,
             }}
         >
             <div className="w-full">

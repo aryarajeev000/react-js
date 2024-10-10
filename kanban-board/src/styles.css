@@ -1,0 +1,55 @@
+/* src/styles.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.kanban-board {
+  display: flex;
+  flex-direction: column;
+}
+
+.columns {
+  display: flex;
+  justify-content: space-between;
+}
+
+.user-column {
+  /* border: 1px solid #ccc; */
+  
+  padding: 10px;
+  width: 30%;
+  border-radius: 4px;
+}
+
+.ticket-card {
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.empty-card {
+  text-align: center;
+  color: #999;
+}
+
+.searchbar{
+  width: 200px;
+}
+
+.user-column{
+  margin: 10px;
+}
+
+.btn{
+  border: 1px solid ;
+  border-color: gainsboro;
+  background-color: white;
+}
